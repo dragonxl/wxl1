@@ -6,6 +6,7 @@ public class cMain {
 
 		Rectangle rec = new Rectangle(1.5, 2.5);		
 		System.out.println("Rectangle Area: " + rec.Area());
+		//This is a test
 	}
 
 }
